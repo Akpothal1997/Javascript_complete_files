@@ -1,0 +1,36 @@
+div{
+    background-color: lightgreen;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+button{
+    padding: 14px 25px;
+    font-size: 20px;
+}
+#msg-1 , #msg-2{
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+}
+#laptop-image{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    margin-bottom: 15px;
+}
+select , input[type='text'],input[type='password']{
+    font-size: 18px;
+    border: none;
+    outline: none;
+    height: 35px;
+    border-radius: 5px;
+}
+span{
+    font-size: 20px;
+}
+input[type='checkbox']{
+    width: 20px;
+    height: 20px;
+}
